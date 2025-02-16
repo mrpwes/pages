@@ -1,0 +1,1 @@
+import{_ as n,c as t,a as o,o as a}from"./index-X9qKb9JU.js";const r={};function s(c,e){return a(),t("div",null,e[0]||(e[0]=[o("h1",null,"404 Not Found",-1),o("p",null,"The page you are looking for does not exist.",-1)]))}const d=n(r,[["render",s],["__scopeId","data-v-4cbca7ab"]]);export{d as default};
